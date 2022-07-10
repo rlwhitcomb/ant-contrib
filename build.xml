@@ -20,7 +20,7 @@
     <property name="xml.log.dir" value="${target.dir}/test-report"/>
     <property name="dist.dir" location="dist"/>
     <property name="skip.tests" value="walls"/>
-    <property name="project.java.baseline" value="1.5"/>
+    <property name="project.java.baseline" value="8"/>
 
     <!-- Ivy -->
     <property name="central.repo" value="https://repo1.maven.org/maven2"/>
